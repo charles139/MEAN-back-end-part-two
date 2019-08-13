@@ -1,14 +1,14 @@
 # MEAN-back-end-part-two
 MEAN stack user authentication app with encryption and token
 
-#Start node server
+# Start node server
 cd into project directory and use command #'nodemon'
 Note: npm install -g nodemon
 
-#Start mongoDB service
+# Start mongoDB service
 command 'mongo' in any directory to begin the service
 
-#Postman Commands for testing
+# Postman Commands for testing
 -POST http://localhost:3000/users/register
     Headers
         key: Content-Type
