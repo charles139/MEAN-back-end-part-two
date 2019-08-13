@@ -2,7 +2,7 @@
 MEAN stack user authentication app with encryption and token
 
 # Start node server
-cd into project directory and use command #'nodemon'
+cd into project directory and use command 'nodemon'
 Note: npm install -g nodemon
 
 # Start mongoDB service
